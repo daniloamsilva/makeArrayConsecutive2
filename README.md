@@ -22,8 +22,8 @@ Ratiorg needs statues of sizes 4, 5 and 7.
 
 * [execution time limit] 3 seconds (java)
 * [input] array.integer statues
-An array of distinct non-negative integers.
 
+An array of distinct non-negative integers.
 Guaranteed constraints:
 1 ≤ statues.length ≤ 10,
 0 ≤ statues[i] ≤ 20.
