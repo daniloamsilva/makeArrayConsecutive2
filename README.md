@@ -29,6 +29,7 @@ Guaranteed constraints:
 0 ≤ statues[i] ≤ 20.
 
 * [output] integer
+
 The minimal number of statues that need to 
 be added to existing statues such that it 
 contains every integer size from an interval 
